@@ -7,3 +7,8 @@
 	path = odoo-utilities
 	url = git@github.com:Jarsa/odoo-utilities.git
 	branch = 15.0
+
+[submodule "odoo-utilitiess"]
+	path = odoo-utilitiess
+	url = git@github.com:olveracuenca/odoo-utilities.git
+	branch = main
